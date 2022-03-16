@@ -1,7 +1,5 @@
 package com.fabribh.crudcidades.usuario;
 
-import freemarker.template.utility.StringUtil;
-import org.apache.logging.log4j.util.Strings;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

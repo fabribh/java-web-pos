@@ -13,6 +13,7 @@
 <body>
 
 <nav class="navbar navbar-expand-sm bg-dark">
+    <span class="navbar-brand text-white">Bem vindo, ${Session.usuarioAtual}.</span>
     <ul class="navbar-nav ml-auto">
         <ul class="nav-item">
             <a
